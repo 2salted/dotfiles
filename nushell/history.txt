@@ -1,0 +1,2883 @@
+clear
+ls
+cd repos
+ls
+cd
+clear
+ls
+nvim ~/.config/hypr/hyprland.conf
+clear
+ls
+clear
+ls
+clear
+hyprpaper
+clear
+sudo pacman -S hyprpaper
+clear
+hyprpaper
+hyprpaper --version
+-dev
+--devel
+clear
+ls
+mkdir images
+clear
+ls
+tree
+cd image
+ls
+cd images/
+ls
+cd ..
+cd Downloads/
+ls
+cd ..
+clear
+ls
+mv images/dhfnj1l-3f0e0b5a-6968-4747-a677-832587121c33.jpg ./Downloads/
+rm -rf images/
+ls
+cd Downloads/
+ls
+mv dhfnj1l-3f0e0b5a-6968-4747-a677-832587121c33.jpg arch.jpg
+clear
+ls
+clear
+cd
+clear
+touch ~/.config/hypr/hyprpaper.conf
+ls
+nvim ~/.config/hypr/hyprpaper.conf
+hyprctl monitors
+clear
+ls
+cd Downloads/
+ls
+cd ..
+whereis arch.jpg
+ls
+clear
+ls
+nvim ~/.config/hypr/hyprpaper.conf
+clear
+nvim ~/.config/hypr/hyprland.conf
+clear
+ls
+neofetch
+nvim ~/.config/hypr/hyprpaper.conf
+clear
+ls
+cd home
+ls
+clear
+cd ..
+ls
+cd ..
+ls
+cd home
+ls
+cd salted
+ls
+clear
+ls
+nvim ~/.config/hypr/hyprpaper.conf
+clear
+nvim ~/.config/hypr/hyprpaper.conf
+clear
+ls
+mv ./Downloads/arch.png ../
+mv ./Downloads/arch.png ./
+ls
+nvim ~/.config/hypr/hyprpaper.conf
+mv arch.png ~/.config/hypr/
+cd hypr
+ls
+clear
+ls
+nvim ~/.config/hypr/hyprpaper.conf
+clear
+hyprpaper 
+hyprpaper --help
+clear
+ls
+nvim ~/.config/hypr/hyprland.conf
+clear
+nvim ~/.config/hypr/hyprpaper.conf
+hyprpaper 
+clear
+s
+ls
+clear
+nvim ~/.config/hyde/
+clear
+ls
+clear
+ls
+nvim
+clear
+l
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+ls
+clear
+source ~/.config/kitty/kitty.conf
+clear
+nvim ~/.config/kitty/kitty.conf
+fc-list : family | grep 'JetBrainsMono NF'
+nvim ~/.config/kitty/kitty.conf
+ls
+exit
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+whereis nu
+which nu
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+clear
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+neofetch
+fastfetch
+clear
+nvim ~/.config/nushell/config.nu
+clear
+nvim ~/.config/nushell/config.nu
+clear
+ls
+clear
+curl
+curl --help
+clear
+curl -sS https://starship.rs/install.sh | sh
+starship -v
+starship --versin
+starship --version
+clear
+starship --version
+clear
+mkdir ~/.cache/starship
+starship init nu | save -f ~/.cache/starship/init.nu
+nvim $nu.config-path
+clear
+ls
+cd repos
+clear
+ls
+clear
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+clear
+cd repos
+ls
+cd yay
+clear
+ls
+cd ..
+clear
+ls
+cd
+nvim ~/.config/nushell/config.nu
+clear
+ls
+cd repos
+ls
+cd hyprdots/
+ls
+cd Source/
+ls
+clear
+clea
+clear
+cd
+clear
+ls
+cd repos
+ls
+cd
+clear
+lcear
+clear
+ls
+clear
+sudo pacman -S zoxide
+clear
+z
+clear
+zoxide init nushell | save -f ~/.zoxide.nu
+nvim $nu.config-path
+clear
+ls
+z repos
+ls
+z Clone/
+ls
+cd
+z clone
+cd
+clear
+ls
+clear
+ls
+clear
+ls
+nvim ~/.config/nushell/config.nu
+cd clone
+cd repos
+ls
+cd repos/
+nvim $nu.config-path
+clear
+ls
+cd clone
+ls
+cd repos
+ls
+cd Clone/
+cd
+cd clone
+clea
+clear
+ls
+nvim $nu.config-path
+zoxide init --cmd cd
+zoxide init --cmd cd nu
+zoxide init --cmd cd nushell
+clear
+cd clone
+cd repos
+ls
+cd Clone/
+cd
+cd clone
+cd cLone
+cd Clone
+cd
+clear
+nvim ~/.config/nushell/config.nu
+cd clone
+cd repos
+ls
+cd Clone/
+cd
+cd clone
+clear
+ls
+nvim ~/.config/nushell/config.nu
+nvim $nu.env-path
+source $nu.config-path
+cd clone
+cd
+clear
+ls
+clear
+nvim
+clear
+nvim
+clear
+ls
+clear
+ls
+nvim ~/.config/kitty/theme.conf
+source ~/.config/kitty/theme.conf
+clear
+ls
+nvim
+clear
+ls
+nvim ~/.config/kitty/theme.conf
+nvim ~/.config/kitty/kitty.conf
+nvim
+nvim ~/.config/kitty/kitty.conf
+nvim
+vi
+vim
+nvim
+clear
+nvim ~/.config/kitty/kitty.conf
+ls
+nvim 
+clear
+ls
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+ls
+nvim ~/.config/kitty/kitty.conf
+nvim ~/.config/kitty/theme.conf
+source ~/.config/kitty/theme.conf
+clear
+nvim ~/.config/kitty/theme.conf
+clear
+nvim ~/.config/kitty/kitty.conf
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+clea
+clear
+nvim
+clear
+ls
+fastfetch
+clear
+fastfetch
+nvim ~/.config/nushell/config.nu
+clear
+fastfetch --gen-config
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch 
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch 
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch 
+clea
+clear
+nvim ~/.config/fastfetch/config.jsonc
+clear
+ls
+nvim
+clear
+fastfetch 
+clea
+clear
+fastfetch 
+clear
+nvim
+clear
+sh <(curl -L https://nixos.org/nix/install) --daemon
+nix
+clear
+ls
+sh <(curl -L https://nixos.org/nix/install) --daemon
+nix --version
+clear
+Nix
+nix
+ls
+clear
+ls
+clear
+sudo sh <(curl -L https://nixos.org/nix/install) --daemon
+nix
+clear
+sudo sh <(curl -L https://nixos.org/nix/install) --daemon
+clear
+nix
+clar
+clear
+nvim $nu.env-path
+nvim $nu.config-path
+nvim $nu.env-path
+clear
+nvim $nu.env-path
+source $nu.env-path
+nvim $nu.env-path
+clear
+nvim $nu.env-path
+clea
+clear
+ls
+nix
+nix --help
+clear
+l
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+nvim ~/.config/kitty/kitty.conf
+nvim
+clear
+ls
+clear
+nix
+clear
+yay
+clear
+ls
+clear
+Helix
+clear
+ls
+clear
+nvim
+clear
+cd repos
+ls
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+ls
+clear
+ls
+rm -rf ~/.config/nvim/.git
+clear
+cd
+clear
+nvim
+clear
+fd
+sudo pacman -S fd
+fd
+clear
+find
+clear
+ls
+clear
+nvim
+clear
+fc-list
+clear
+$ fc-list ':' file
+fc-list ':' file
+clear
+nvim /etc/fonts/conf.d/
+clear
+ls
+clear
+nvim
+clear
+utf-8
+clear
+ls
+pacman -S noto-fonts-emoji --needed
+cd
+cd repos
+ls
+cd hyprdots/
+lscd ..
+ls
+clear
+ls
+cd ..
+clear
+ls
+cd
+sudo pacman -S noto-fonts-emoji --needed
+clear
+clear
+ls
+clear
+fastfetch
+nvim
+c;ear
+clear
+ls
+nvim ~/.config/hypr/keybindings.conf
+clear
+ls
+nvim 
+clear
+ls
+clear
+nvim
+nvim 
+nvim
+nvim ~/.config/nvim/lua/plugins/plugin_list.lua
+nvim 
+nvom
+nvim
+rm -rf ~/.config/nvim/lua/plugins/plugin_list.lua
+nvim 
+nvim
+nvim 
+clear
+nvim
+nvim ~/.config/nvim/lua/plugins/plugin_list.lua
+nvim 
+clear
+nvim 
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+clear
+nvim
+clear
+ls
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+nvim
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+clear
+nvim
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+nvim
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+cd repos
+gh repo clone 2salted/cpp
+gh auth 
+git
+c;ear
+clear
+sudo pacman -S gh
+yay -S gh
+clear
+sudo pacman -S github-cli
+clear
+ls
+gh
+ckear
+clear
+gh auth
+gh auth login
+clear
+nvim
+nvim ~/.config/hypr/keybindings.conf
+clear
+nvim ~/.config/hypr/keybindings.conf
+clear
+nvim
+cd repos
+gh repo clone 2salted/cpp
+ls
+https://github.com/2salted/cpp.git
+git clone https://github.com/2salted/cpp.git
+ls
+clear
+ls
+cd cPP
+cd cpp/
+clear
+ls
+cd september/
+cd octo
+cd ..
+cd october/
+ls
+cd 07-october-2024/
+ls
+nvim pascalsTriangle.cpp
+clear
+nvim pascalsTriangle.cpp
+nvim
+clear
+cd
+clear
+nvim
+nvim ~/.config/nvim/lua/config/lazy.lua
+nvim ~/.config/nvim/lua/plugins/plugin_list.lua
+clear
+nvim
+clear
+ls
+clear
+nvim
+clear
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+clear
+ls
+clear
+ls
+clear
+ls
+nvim
+nix
+clear
+nix-env -iA nixpkgs.nodejs_22
+clear
+node -v
+npm -v
+clear
+ls
+nvim
+cd repo
+clear
+ls
+cd cpp
+ls
+nvim october/02-october-2024/
+clear
+nvim october/02-october-2024/
+clear
+cd
+clear
+shutdown
+shutdown -c
+shutdown now
+NVIM
+clear
+fastfetch
+nvim
+clear
+nvim october/02-october-2024/
+clear
+ls
+cd c++
+cd repos
+ls
+cd cpp
+ls
+cd ..
+ls
+mv cpp c++
+ls
+cd c++
+ls
+cd october/
+ls
+cd 07-october-2024/
+ks
+ls
+clear
+nvim ~/.config/hyde/
+ls
+nvim `~/.config/hyde/themes/Tokyo Night/hypr.theme`
+clear
+nvim ~/.config/hypr/hyprland.conf
+clear
+nvim ~/.config/hypr/hyprland.conf
+nvim `~/.config/hyde/themes/Tokyo Night/hypr.theme`
+nvim ~/.config/waybar/style.css
+nvim ~/.config/waybar/config.jsonc
+nvim ~/.config/waybar/style.css
+clear
+nvim ~/.config/waybar/theme.css
+nvim ~/.config/waybar/config.jsonc
+nvim ~/.config/waybar/style.css
+clear
+ls
+clear
+gh repo clone catppuccin/waybar
+ls
+cd repos
+gh repo clone catppuccin/waybar
+ls
+cd waybar/
+ls
+cd themes/
+ls
+cp ./mocha.css ~/.config/waybar/
+ls
+nvim ~/.config/waybar/style.css
+clear
+nvim ~/.config/waybar/style.css
+ls
+nvim ~/.config/waybar/style.css
+clear
+ls
+cd ..
+ls
+cd assets/
+ls
+cd ..
+clear
+ls
+nvim ~/.config/waybar/config 
+clear
+cd
+clear
+nvim ~/.config/waybar/config.jsonc
+ls
+nvim ~/.config/waybar/config.ctl
+ls
+nvim ~/.config/waybar/theme.css
+nvim ~/.config/waybar/config.jsonc
+nvim ~/.config/waybar/theme.css
+clear
+waybar
+clear
+ls
+cd ~/.config/
+ls
+cd waybar/
+ls
+tree
+clear
+l
+clear
+ls
+nvim ~/.config/waybar/
+monitor
+clear
+fast fetch
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+ls
+clear
+ls
+fastfetch
+clear
+ls
+fastfetch
+clear
+ls
+fastfetch
+clear
+fastfetch
+clear
+ls
+clear
+ls
+clear
+ls
+nvim
+clear
+ls
+nvim
+cd octo
+ls
+nvim pascalsTriangle.cpp
+clear
+ls
+cd
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+=cclear
+clear
+ls
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+nvim .
+nvim
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+source $nu.env-path
+nvim ~/.config/kitty/kitty.conf
+clear
+nvim ~/.config/kitty/kitty.conf
+ls
+clear
+ls
+cd repos
+ls
+cd
+clear
+nvim 
+nvim ~/.config/kitty/kitty.conf
+clear
+ls
+nvim ~/.config/kitty/kitty.conf
+nvim
+clear
+fastfetch
+clear
+ls
+cd repos
+ls
+clear
+cd
+clear
+ls
+clear
+ls
+cd repos
+ls
+nvim c++
+clear
+ls
+nvim c++
+clear
+ls
+cd c++
+ls
+cd octo
+ls
+cd ..
+clear
+ls
+mkdir 10-october-2024
+cd 10-october-2024/
+ls
+clear
+touch test.cpp
+clear
+ls
+nvim test.cpp
+cd ..
+ls
+rm -rf 10-october-2024/
+clear
+ls
+cd
+clear
+ls
+fastfetch
+clear
+fastfetch 
+nvim ~/.config/fastfetch/config.jsonc
+clear
+fastfetch 
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch 
+clear
+ls
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch 
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch 
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch 
+clear
+fastfetch 
+clear
+fastfetch 
+nvim ~/.config/fastfetch/config.jsonc
+clear
+nvim ~/.config/waybar/config.jsonc
+clear
+ls
+nvim ~/.config/waybar/config.jsonc
+clear
+rm -rf ~/.config/waybar/
+ls
+clear
+ls
+nvim ~/.config/waypaper/
+nvim ~/.config/hypr/
+cclear
+clear
+ls
+clear
+nvim ~/.config/hypr/keybindings.conf
+clear
+ls
+reboot now
+sudo reboot
+fastfetch 
+clear
+ls
+clear
+ls
+fastfetch 
+clear
+sudo reboot
+clear
+ls
+fastfetch 
+clear
+ls
+clear
+ls
+clear
+brave-browser --password-store=basic
+brave --help
+clear
+ls
+fast
+fastfetch
+clear
+ls
+cd repos
+ls
+cd
+clear
+ls
+nvim ~/.config/kwalletrc
+killall brave
+kill brave
+brave
+reboot
+clear
+ls
+clear
+fastfetch
+clear
+ls
+youtube-music
+clear
+ls
+temp.txt
+touch temp.txt
+nvim temp.txt
+cat temp.txt
+clear
+ls
+mkdir files
+mv temp.txt files/
+ls
+mv files/ Files
+clear
+ls
+cd Files/
+ls
+clear
+cdc
+cd
+clear
+ls
+cd repos
+ls
+cd c++
+ls
+cd
+clear
+ls
+clear
+nvim
+ls
+cd repos
+ls
+cd nvim c++
+ls
+cd c++/
+ls
+cd 
+cd c++
+clear
+l
+ls
+nvim october/
+clear
+ls
+cd october/
+ls
+nvim 07-october-2024/integerToRoman.cpp
+clear
+ls
+clear
+cd
+clear
+ls
+clear
+fastfetch 
+clear
+npm
+clear
+ls
+bun
+clear
+bun
+clear
+ls
+bun
+clear
+nvim
+clear
+ls
+cd repos
+gh repo clone 2salted/CodingCourse
+gh
+clear
+gh
+gh auth login
+clear
+gh repo clone 2salted/CodingCourse
+clear
+ls
+nvim CodingCourse/
+clear
+cd CodingCourse/
+clear
+ls
+nvim .
+clear
+ls
+clear
+ls
+cd
+cclear
+clear
+ls
+nvim
+clear
+ls
+cd repos
+ls
+nvim CodingCourse/
+nvim ~/.config/nvim/stylua.toml
+nvim ~/.config/nvim/lua/config/options.lua
+nvim ~/.config/nvim/lua/config/lazy.lua
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+cat ~/.config/nvim/lua/plugins/catppuccin.lua
+:q
+clear
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+clear
+nvim 
+nvim
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+nvim
+find init.lua
+fd
+clear
+fastfetch 
+clear
+nvim ~/.config/nvim/init.lua
+nvim
+clear
+nvim CodingCourse/
+nvim ~/.config/nvim/init.lua
+clear
+ls
+cd CodingCourse/
+clear
+ls
+clear
+nvim .
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+sudo shutdown now
+clear
+ls
+clear
+ls
+node
+exit
+cd coding
+ls
+clear
+cd
+cler
+clear
+cd c++
+ls
+clear
+ls
+cd october
+s
+ls
+mkdir 10-october-2024
+clear
+ls
+cd 10-october-2024/
+ls
+fastfetch
+clear
+fastfetch 
+clear
+fastfetch 
+clear
+nvim octo
+cd octo
+lks
+ls
+clear
+ls
+cd 10-october-2024/
+ls
+touch reverseLinkedList.cpp
+clear
+ls
+fastfetch
+clear
+ls
+clear
+ls
+nvim reverseLinkedList.cpp
+sudo pacman -Syu --needed base-devel
+clear
+ls
+sudo pacman -Syu
+clear
+ls
+nvim reverseLinkedList.cpp
+clear
+nvim reverseLinkedList.cpp
+clear
+nvim
+nvim ~/.config/nvim/lua/plugins/plugin_list.lua
+nvim
+clear
+nvim reverseLinkedList.cpp
+nvim ~/.config/nvim/lua/plugins/plugin_list.lua
+nvim
+nvim reverseLinkedList.cpp
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+nvim reverseLinkedList.cpp
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+nvim reverseLinkedList.cpp
+nvim ~/.config/nvim/lua/plugins/plugin_list.lua
+nvim reverseLinkedList.cpp
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+clear
+nvim reverseLinkedList.cpp
+cd 10-october-2024/
+cd octo
+ls
+cd 10-october-2024/
+ls
+clear
+nvim reverseLinkedList.cpp
+whereis gcc
+which gcc
+clear
+ls
+nvim reverseLinkedList.cpp
+clear
+nvim ~/.config/nvim/lua/config/options.lua
+nvim reverseLinkedList.cpp
+vesktop -v
+vesktop --version
+cleae
+clear
+whereis vesktop
+which vesktop
+ls
+clear
+ls
+clear
+ls
+nvim reverseLinkedList.cpp
+sudo pacman -Rns vesktop 
+cd
+clear
+nix-env -iA nixpkgs.vesktop
+vesktop --version
+clear
+vesktio
+which vesktop
+vesktop --versino
+clear
+vesktop --version
+ckear
+clear
+clea
+clear
+ls
+clear
+vesktop
+clear
+ls
+pipewire
+xdg-desktop-portal
+pipeWire
+clear
+fastfetch 
+reboot 
+clear
+fastfetch 
+clear
+fastfetch 
+clear
+nvim 10
+cd 10
+ls
+cd 10
+ls
+clear
+ls
+nvim reverseLinkedList.cpp
+fastfetch 
+clear
+ls
+fastfetch 
+shutdown now
+nvim
+clear
+fastfetch 
+clear
+ls
+cd repos
+ls
+cd CodingCourse/
+clear
+ls
+nvim .
+clear
+ls
+bun i
+clear
+nvim .
+clear
+ls
+nvim ~/.config/nvim/lua/plugins/
+clear
+cd
+clear
+ls
+clear
+fastfetch
+cleaer
+clear
+ls
+cd repos
+ls
+clear
+ls
+clear
+ls
+clear
+cd
+clear
+sudo pacman -S freetype2 harfbuzz cairo pango wayland libxkbcommon
+sudo pacman -S meson scdoc wayland-protocols
+clear
+nvim ~/.config/tofi/configA
+nvim ~/.config/tofi/configV
+clear
+nvim ~/.config/hypr/hyprland.conf
+clear
+nvim ~/.config/hypr/keybindings.conf
+nvim ~/.config/hypr/hyprland.conf
+nvim ~/.config/hypr/keybindings.conf
+tofi
+tofi-drun
+clear
+ls
+tofi-drun
+tofi
+ti
+to
+clear
+sudo pacman -S meson scdoc wayland-protocols
+sudo pacman -S --needed meson scdoc wayland-protocols
+paru
+sudo pacman -R freetype2 harfbuzz cairo pango wayland libxkbcommon
+clear
+ls
+sudo pacman -S xdg-desktop-portal-hyprland
+clear
+nix-env -iA nixpkgs.tofi
+clear
+ls
+tofi-drun
+nvim ~/.config/tofi/configA
+clear
+ls
+nvim ~/.config/tofi/configA
+clear
+ls
+nix
+nix --help
+clear
+ls
+tofi-drun
+rm ~/.config/tofi/
+clear
+ls
+cat ~/.config/tofi/configA
+clear
+nvim ~/.config/tofi/configA
+cleaer
+clear
+fastfetch -l arse
+clear
+nvim ~/.config/hypr/keybindings.conf
+clear
+ls
+nvim ~/.config/tofi/configA
+:wqall
+nvim ~/.config/tofi/configA
+clear
+ls
+clear
+fastfetch -l penis
+clear
+fastfetch -l arse
+fastfetch -l amogOs
+clear
+fastfetch -l gentoo
+fastfetch -l arch
+fastfetch -l ubuntu
+clear
+fastfetch -l redstar
+fastfetch -l redstarOs
+clear
+ls
+fastfetch -l redstar
+clear
+fastfetch
+clear
+fastfetch -l windows
+clear
+ls
+clear
+ls
+clear
+ls
+cd repos
+ls
+rm -rf waybar/
+ls
+cd Clone/
+ls
+cd ..
+mv ./yay/ ./
+ls
+cd Clone/
+ls
+cd ..
+clear
+ls
+cd yay/
+ls
+cd ..
+clear
+ls
+rm -rf Clone/
+ls
+whereis yaya
+whereis yay
+clear
+ls
+yay -Syu
+clear
+ls
+cd
+clear
+ls
+clear
+bun 
+clear
+ls
+clear
+ls
+cd repos
+ls
+cd CodingCourse/
+clear
+nvim
+nvim .
+clear
+curl -fsSL https://deno.land/install.sh | sh
+Run '/home/salted/.deno/bin/deno --help'
+clear
+deno -v
+clear
+ls
+c;ear
+clear
+ls
+cd repos
+ls
+cd CodingCourse/
+ls
+clear
+ls
+deno run
+clear
+bun run dev
+deno run dev
+deno
+deno --version
+clear
+deno -v
+clear
+cd coding
+ls
+clear
+nvim .
+clear
+l
+clear
+ls
+cd
+clear
+ls
+cd coding
+clear
+ls
+git status
+clear
+git status
+git add .
+git commit -m 'added bun and updated'
+git push
+git add .
+git commit -m 'added bun'
+git config --global user.email "noamdev@proton.me"
+git config --global user.name "2salted"
+git commit -m 'added bun'
+git push
+fastfetcj
+fastfetch
+clear
+ls
+cd coding
+clear
+nvim .
+clear
+nvim .
+clear
+git add .
+git commit -m 'successfully transfered courses section into it"s own component'
+git push
+clear
+fastfetch
+clear
+ls
+cd repos
+ls
+cd coding
+ls
+clear
+ls
+cd src
+ls
+cd components/
+ls
+clear
+ls
+touch Footer.tsx
+clear
+cd coding
+ls
+clear
+ls
+clear
+ls
+cd clear
+ls
+clear
+ls
+cd src
+ls
+cd components/
+clear
+ls
+nvim .
+clear
+ls
+nvim src/components/Footer.tsx
+clear
+nvim .
+clear
+bun run dev
+CLEAR
+clear
+ls
+cat ~/.config/hypr/hyprland.conf
+clear
+cat ~/.config/hypr/hyprland.conf
+cat ~/.config/hypr/monitors.conf
+cat ~/.config/hypr/themes/colors.conf
+clear
+ls
+nvim .
+clear
+ls
+clear
+fastfetch -l arse
+clear
+nvim .
+clear
+nvim .
+clear
+ls
+clear
+ls
+cd coding
+clear
+git add .
+git commit -m 'added footer and edited top of page to fit screen height always'
+git push
+clear
+ls
+cd
+clear
+ls
+cd repos
+ls
+clear
+cd repos
+ls
+cd CodingCourse/
+clear
+ls
+clear
+fastfetch
+clear
+cd coding
+clear
+ls
+gh issue create -t 'implement oAuth'
+clear
+fastfetch
+clear
+ls
+npm install firebase
+bun install firebase
+npm firebase
+npm i firebase
+bun pm untrusted
+bun pm trust
+bun i
+clear
+ls
+touch firebase.ts
+nvim firebase.ts
+mv firebase.ts firebase.js
+clear
+cd coding
+clear
+nvim firebase.js
+npm i --save-dev @types/firebase
+nvim firebase.js
+clear
+bun i --save-dev @types/firebase
+c;ear
+clear
+ckear
+clear
+cd coding
+ckear
+ks
+clear
+ls
+nvim firebase.js
+ckear
+clear
+ls
+ls -a
+rm -rf node_modules/
+bun i
+bun pm untrusted
+bun pm trust
+bun i
+bun pm trust --all
+clear
+clear
+nvim .
+clear
+ls
+touch authGithubFirebase.js
+clear
+bun run dev
+clear
+nvim .
+nvim authGithubFirebase.js
+clear
+ls
+mkdir src/hooks
+lear
+clear
+nvim
+nvim .
+clear
+ls
+rm -rf src/hooks/
+ls
+cd src
+ls
+cd ..
+clear
+git status
+git add .
+git .gitignore
+nvim .gitignore
+clear
+ls
+git status
+nvim .gitignore
+clear
+git add .
+git commit -m 'added firebase'
+git status
+git push
+bun run dev
+cclear
+fastfetch
+clear
+fastfetch
+clear
+ls
+cat authGithubFirebase.js
+rm -rf authGithubFirebase.js
+clear
+ls
+cd src
+clear
+ls
+mkdir hooks
+ls
+cd hooks/
+touch useLogin.js
+clear
+cd ../..
+clear
+git status
+ls
+clear
+l
+ls
+clear
+nvim .
+clear
+nvim .
+clear
+git status
+fastfetch
+clear
+nvim .
+nvim ~/.config/nvim/lua/plugins/catppuccin.lua
+nvim 
+nvim
+clear
+nvim .
+clear
+cd src
+clear
+ls
+cd hooks
+ls
+mv useLogin.js useLogin.ts
+nvim .
+rm -rf src/hooks/useLogin.js
+clear
+ls
+cd cod
+clear
+nvim .
+clear
+reboot
+clear
+cd coding
+clear
+ls
+clear
+bun run dev
+cd coding
+clear
+nvim .
+clear
+ls
+mv firebase.js firebase.ts
+bun run dev
+nvim firebase.ts
+clear
+cd co
+clear
+bun run dev 
+clear
+bun run dev
+clear
+nvim .
+ls
+mv firebase.ts firebase.js
+clear
+bun run dev
+clear
+bun run dev
+nvim .
+clear
+git status
+git restore .
+ls
+clear
+ls
+clear
+cd cod
+clear
+cd co
+clear
+bun run dev
+clear
+cd coding
+clear
+ls
+mv firebase.js firebase.ts
+cd coding
+clear
+rm -rf authGithubFirebase.js
+cd src
+cd ..
+rm -rf src/hooks/
+bun run dev
+clear
+bun run dev
+clear
+nvim .
+clear
+git add .
+git commit -m 'added github integration authentication'
+git push
+clear
+shutdown now
+clear
+shutdown now
+clear
+cd coding
+clear
+ls
+clear
+cd coding
+nvim .
+clear
+git add .
+git commit -m 'added firebase github auth test 1'
+git push
+git checkout -b githubAuth
+clear
+bun run dev
+clear
+cd coding
+clear
+ls
+cd src
+clear
+ls
+mkdir hooks
+touch hooks/useLogin.ts
+clear
+ls
+cd ..
+clear
+nvim .
+clear
+ls
+clear
+git restore .
+git status
+rm -rf src/hooks/
+ls
+clear
+cd coding
+clear
+nvim .
+ls
+git branch
+git checkout main
+git branch
+git branch list
+clear
+git branch --help
+git --help
+gh branch
+clear
+gh branch list
+clear
+git checkout 
+git branch -b
+git branch -l
+clear
+ls
+git branch *
+clear
+ls
+git checkout 
+git branch master
+clear
+ls
+git branch -d githubAuth
+clear
+ls
+clear
+ls
+git branch
+git config --global core.pager 'less -FRX'
+git branch
+git config --global core.pager ''
+git branch
+git branch list
+git branch 
+git branch -d list
+git checkout master
+ls
+git checkout main
+clear
+ls
+git branch
+git master
+clear
+ls
+git add .
+git status
+clear
+ls
+git graph
+git --help
+clear
+ls
+clear
+cd coding
+clear
+cd coding
+clear
+gh issue create -t 'add firebase user auth integration'
+clear
+gh issue create -t 'put nav bar in it"s own component'
+clear
+ls
+nvim .
+clear
+nvim .
+clear
+git add .
+git commit -m 'removed non working firebase auth code'
+git push
+clear
+nvim .
+gh issue list
+clear
+gh issue lost
+gh issue list
+clear
+bun run dev
+clear
+ls
+cd src
+ls
+touch components/Navbar.tsx
+clear
+nvim .
+clear
+git add .
+git commit -m 'made navbar it"s own component'
+git push
+clear
+cd ..
+ls
+gh issue lost
+gh issue list
+gh issue close 13
+gh issue list
+clear
+ls
+clear
+clear
+touch src/components/Login.tsx
+ls
+cd src
+ls
+list
+clear
+fastfetch 
+clear
+bun run dev
+clear
+nvim .
+npm i react-icons
+bun i react-icons
+bun run dev
+clear
+bun run dev
+clear
+clea
+clear
+nvim .
+git add .
+git commit -m 'added login page'
+git push
+bun i react-router-dom
+clear
+bun run dev
+fastfetch 
+clear
+reboot
+cd coding
+clear
+cd co
+ls
+clear
+bun run dev
+clear
+bun run dev
+clear
+cd coding
+ls
+mv ./src/components/Login.tsx ./src/
+bun run dev --host
+clear
+nvim .
+clear
+git add .
+git commit -m 'added sign in/sign up page'
+git push
+clear
+ls
+clear
+nvim .
+clear
+bun i firebase
+clear
+git status
+nvim .
+clear
+ls
+clear
+shutdown now
+clear
+ls
+cd coding
+clear
+ls
+git status
+clear
+git add .
+git commit -m 'bun changes'
+git push
+clear
+ls
+clear
+cd src
+clear
+ls
+cd ..
+clear
+cd coding
+clear
+fastfetch
+clear
+cd coding
+clear
+ls
+clear
+s
+ls
+clear
+ls
+time
+date
+date now
+clear
+git pull
+cd ..
+mv CodingCourse/ Narwal
+clear
+ls
+clear
+ls
+cd narwal
+cd repos
+ls
+cd narwal
+clear
+ls
+cd Narwal/
+clear
+ls
+cd
+cd narwal
+clear
+ls
+clear
+nvim Narwal/
+clear
+cd narwal
+clear
+cd narwal
+clear
+bun i firebase
+nvim .
+clear
+bun run dev
+clear
+bun run dev
+clear
+date now
+bun run dev
+clear
+bun run dev --host
+clear
+bun run dev --host
+date now
+clear
+nvim .
+date now
+nvim ~/.config/fastfetch/config.jsonc
+clear
+fastfetch
+date now
+nvim ~/.config/fastfetch/config.jsonc
+clear
+fastfetch
+shutdown now
+clear
+nvim ~/.config/fastfetch/config.jsonc
+clear
+fastfetch
+clear
+ls
+clear
+ls
+cd repos
+ls
+cd c++
+clear
+ls
+clear
+git status
+clear
+git add .
+git commit -m 'new dir'
+git push
+clear
+ls
+clear
+l
+ls
+clear
+ls
+clear
+ls
+cd c++
+clear
+ls
+clear
+ls
+cd octo
+clear
+ls
+mkdir 12-october-2024
+clear
+ls
+cd 12-october-2024/
+ls
+fastfetch
+clear
+ls
+clear
+touch TrieInsert.cpp
+cd 12
+ls
+cat TrieInsert.cpp
+nvim TrieInsert.cpp
+clear
+cd ../..
+git add .
+git status
+mv ./october/12-october-2024/TrieInsert.cpp ./october/12-october-2024/TrieInsertSearch.cpp
+git add .
+git commit -m 'added trie data structure insert and search'
+git push
+clear
+ls
+clear
+ls
+cd 12
+clear
+ls
+touch TrieWordSearch.cpp
+clear
+ls
+nvim TrieWordSearch.cpp
+mv TrieWordSearch.cpp prefixTree.com
+clear
+ls
+mv prefixTree.cpp
+mv prefixTree.com prefixTree.cpp
+clear
+nvim prefixTree.cpp
+cat TrieInsertSearch.cpp
+clear
+ls
+cd 12
+cat TrieInsertSearch.cpp
+clear
+nvim prefixTree.cpp
+clear
+ls
+rm -rf prefixTree.cpp
+touch prefixTree.cpp
+clear
+ls
+clear
+ls
+btop
+clear
+sudo pacman -S btop
+clear
+btop --help
+btop --delay 100
+clear
+nvim prefixTree.cpp
+clear
+mv prefixTree.cpp prefixTreeExample.cpp
+ls
+clear
+ls
+clear
+ls
+clear
+cd 12
+clear
+ls
+touch prefixTree.cpp
+nvim prefixTreeExample.cpp
+cd 12
+clear
+ls
+cat TrieInsertSearch.cpp
+cd 12
+clear
+cat TrieInsertSearch.cpp
+cd 12
+clear
+cat TrieInsertSearch.cpp
+nvim prefixTree.cpp
+clear
+nvim prefixTree.cpp
+clear
+cd
+clear
+nvim 
+clear
+ls
+cd repos
+ls
+clear
+nvim
+clear
+cd 12
+clear
+nvim prefixTree.cpp
+clear
+nvim 
+cd
+cd narwal
+nvim .
+clear
+cd
+clear
+ls
+cd 12
+clea
+clear
+ls
+nvim prefixTree.cpp
+clear
+shutdown now
+clear
+shutdown now
+clear
+ls
+cd repos
+ls
+cd c++
+clear
+ls
+clear
+ls
+git status
+clear
+l
+clear
+git status
+clear
+ls
+cd octo
+clear
+ls
+cd ..
+clear
+cd ..
+clear
+git add .
+git status
+git add .
+git commit -m 'added first prefix tree implementation'
+git push
+clear
+ls
+clear
+ls
+cd october/
+ls
+fastfetch
+clear
+ls
+clear
+ls
+date now
+clear
+ls
+mkdir 13-october-2024
+clear
+ls
+cd 13-october-2024/
+ls
+clear
+ls
+touch prefixTreeSummary.cpp
+clear
+ls
+nvim prefixTreeSummary.cpp
+clear
+ls
+clear
+ls
+nvim prefixTreeSummary.cpp
+cd ../
+clear
+cd ..
+git add .
+git commit -m 'added my uncorrected summary of a prefix tree'
+git push
+clear
+ls
+cd octo
+ls
+clear
+ls
+cd 13-october-2024/
+clear
+ls
+touch TrieTreeReimplementation.cpp
+cd TrieTreeReimplementation.cpp TrieTree.cpp
+mv TrieTreeReimplementation.cpp TrieTree.cpp
+clear
+ls
+cd 12
+ls
+cat prefixTree.cpp
+cd 12
+cat prefixTree.cpp
+cd 12
+cat prefixTree.cpp
+cd 12
+cat prefixTree.cpp
+cd 12
+cat prefixTree.cpp
+cd 12
+clear
+ls
+cd prefixTree.cpp
+ls
+cat prefixTree.cpp
+nvim TrieTree.cpp
+clear
+cd ../..
+git add .
+git commit -m 'added prefix reimpl'
+git push
+cd
+clear
+shutdown now
+clear
+ls
+cd c++
+clear
+ls
+clear
+cd
+clear
+nix-env -iA nixpkgs.kdePackages.kdenlive
+clear
+ls
+kdenlive 
+clear
+kdenlive
+ckear
+clear
+kdenlive_render 
+kdenlive -h
+clear
+ls
+clear
+nix
+nix -h
+nix --help
+clear
+^$"nix profile remove ((which kdenlive).path)"
+$"nix profile remove ((which kdenlive).path)"
+kdenlive 
+clear
+$"nix profile remove ((which kdenlive).path)"
+iwctl
+clear
+ls
+^$"nix profile remove ((which kdenlive).path.0)"
+$"nix profile remove ((which kdenlive).path.0)"
+^$"nix profile remove ((which kdenlive).path.0)"
+nix --help
+clear
+ls
+nix
+nix profile list
+nvim $nu.env-path
+clear
+^$"nix profile remove ((which kdenlive).path.0)"
+nix profile list
+^$"nix profile remove ((which kdenlive).path.0)"
+clear
+nix profile remove kdenlive
+nix profile list
+clear
+ls
+clear
+ls
+cd c++
+clear
+cd
+clear
+sudo pacman -S kdenlive
+clear
+kdenlive 
+clear
+ls
+clear
+ls
+cd c++
+clear
+ls
+cd october/
+ls
+clear
+cd 13-october-2024/
+ls
+touch binaryHeap.cpp
+clear
+ls
+nvim binaryHeap.cpp
+clear
+ls
+clear
+cd ../..
+git add .
+git commit -m 'added stuff'
+git push
+clear
+cd
+clear
+ls
+clesr
+clear
+ls
+clear
+ls
+clear
+ls
+vlrst
+clear
+ls
+3 * 3
+clear
+i = 0
+clear
+ls
+clear
+ls
+clear
+ls
+reboot
+clear
+ls
+fastfetch
+clear
+culr
+curl wttr.in/santa+cruz+das+flores
+clear
+ls
+cd c++
+ls
+clear
+cd
+clear
+ls
+clear
+ls
+cd c++
+cd
+clear
+ls
+cd c++
+ls
+clear
+cd octo
+s
+ls
+clear
+ls
+cd ..
+clear
+ls
+cd 13-october-2024/
+ls
+nvim binaryHeap.cpp
+clear
+ls
+cd
+clear
+ls
+fastfetch
+clear
+ls
+clear
+ls
+cd c++
+clear
+ls
+cd
+clear
+ls
+cd repos
+ls
+cd
+clear
+ls
+cd c++
+clear
+ls
+cd october/
+clear
+ls
+mkdir 14-october
+mv 14-october/ 14-october-2024
+clear
+ls
+cd 14-october-2024/
+ls
+clear
+ls
+touch todo.md
+mv todo.md todo.cpp
+clea
+clear
+nvim todo.cpp
+clear
+cd ../..
+git add .
+git commit -m 'added todo for the 14th'
+git push
+clear
+ls
+cat october/14-october-2024/todo.cpp
+nix profile list
+clear
+sudo pacman -Syyu
+clear
+yay -Syyu
+nix-channel --update
+nix profile upgrade '.*'
+nix profile upgrade '*'
+nix profile upgrade ''
+clear
+nix profile upgrade .*
+clear
+cd
+clear
+nix profile upgrade
+nix profile upgrade --help
+nix profile upgrade --all
+clear
+nix profile upgrade
+sudo nix-channel --update
+nix-channel --update
+nix-channel --update --help
+clear
+ls
+pacman -help
+sudo pacman -Q blender
+sudo pacman -S blender
+clear
+ls
+sudo pacman -S steam
+clear
+ls
+fastfetch
+clear
+pacman -help
+pacman -d
+pacman -D
+sudo pacman -D
+sudo pacman -U
+sudo pacman -s
+sudo pacman -y -h
+clear
+cd 13
+ls
+touch palindromeSubStrRefactor.cpp
+nvim palindromeSubStrRefactor.cpp
+clear
+ls
+rm -rf palindromeSubStrRefactor.cpp
+clear
+cd
+clear
+ls
+clear
+ls
+shutdown now
+clear
+nix profile 
+nix profile list
+clear
+sudo pacman -Syyu
+clear
+cd octo
+clear
+ls
+cd ..
+clear
+ls
+cd 14-october-2024/
+clear
+ls
+cat todo.cpp
+clear
+ls
+touch deleteNodeScuffed.cpp
+clear
+nvim deleteNodeScuffed.cpp
+clear
+ls
+touch designLinkedList.cpp
+nvim designLinkedList.cpp
+clear
+ls
+cd 14
+cd todo.cpp
+cat todo.cpp
+nvim designLinkedList.cpp
+clear
+cat todo.cpp
+clear
+cd ../..
+git add .
+git commit -m 'added half implementation of design a linked list'
+git push
+cd ../
+cd
+clear
+ls
+shutdown now
+clear
+ls
+clear
+ls
+clear
+ls
+cd repos
+ls
+clear
+ls
+clear
+ls
+cd c++
+ls
+cd octo
+clear
+ls
+cd ..
+ls
+cd 14-october-2024/
+ls
+clear
+ls
+iwctl
+clear
+iwctl
+clear
+iwctl
+nvim designLinkedList.cpp
+reboot
+clear
+ls
+cd c++
+clear
+ls
+git add .
+git status
+git commit -m 'added design linked list'
+git push
+clear
+ls
+cd octo
+clear
+ls
+cd ..
+ls
+cd 14-october-2024/
+ls
+cat todo.cpp
+clear
+nvim designLinkedList.cpp
+reboot
+clear
+ls
+cd repos
+ls
+cd c++
+clear
+ls
+cd octo
+clear
+ls
+cd ..
+clear
+ls
+cd 14-october-2024/
+clear
+ls
+clear
+ls
+cd
+clear
+fastfetch
+clear
+ls
+clear
+ls
+cd octo
+cd ..
+clear
+ls
+clear
+ls
+cd 14-october-2024/
+ls
+clear
+ls
+nvim designLinkedList.cpp
+fastfetch
+clear
+ls
+clear
+ls
+cd ..
+clear
+ls
+cd 14-october-2024/
+ls
+nvim designLinkedList.cpp
+clea
+clear
+ls
+cat todo.cpp
+clear
+ls
+clear
+ls
+touch binaryHeap.cpp
+clear
+ls
+cd ../..
+git add .
+git commit -m 'added failed design linked list problem'
+git push
+clear
+ls
+cd octo
+cd ..
+cd 14-october-2024/
+ls
+clear
+ls
+cd ..
+tree
+clear
+ls
+cd 13-october-2024/
+ls
+cat binaryHeap.cpp
+clear
+cd ..
+clear
+ls
+cd 14-october-2024/
+ls
+nvim binaryHeap.cpp
+reboot
+clear
+reboot
+clear
+ls
+cd repos
+ls
+clear
+ls
+cd repos
+ls
+cd c++
+clear
+ls
+git status
+cd octo
+ls
+cd ..
+cd 14
+l
+ls
+cat todo.cpp
+clear
+shutdown
+shutdown now
+clear
+ls
+cd
+clear
+sudo pacman -Syyu
+clear
+sudo pacman -Syyu
+clear
+ls
+cd
+clear
+nix profile update
+nix profile upgrade
+nix profile upgrade --all
+clear
+ls
+cd repos
+ls
+cd
+clear
+ls
+clear
+ls
+cd repos
+ls
+cd
+clear
+ls
+cd repos
+gh repo clone 2salted/neovim-config
+clear
+ls
+rm -rf neovim-config/
+gh repo clone 2salted/dotfiles
+clear
+ls
+cd dotfiles/
+ls
+mkdir neovim-config
+mv nvim/ ./neovim-config/
+ls
+cd neovim-config/
+ls
+cd nvim/
+ls
+cd ..
+cd 
+ls
+cd repos
+ls
+cd dotfiles/
+clear
+ls
+cd ./neovim-config/
+ls
+rm -rf nvim/
+cp ~/.config/nvim/ ./
+cp -r ~/.config/nvim/ ./
+ls
+cd nvim/
+ls
+cd lua
+ls
+cd plugins/
+ls
+cd ..
+clear
+cd dot
+clear
+ls
+git add .
+git commit -m 'added neovim config'
+git push
+clear
+ls
+cd ..
+ls
+cd dotfiles/
+ls
+mkdir fastfetch-config
+cp -r ~/.config/fastfetch/ ./
+ls
+mv fastfetch/ fastfetch-config/
+ls
+cd fastfetch-config/
+ls
+cd fastfetch/
+ls
+cd ../..
+ls
+mv fastfetch-config/fastfetch/ ./
+ls
+rm -rf fastfetch-config/
+ls
+mv neovim-config/nvim/ ./
+ls
+rm -rf neovim-config/
+ls
+sudo pacman -S tree
+tree
+clear
+tree
+ls
+git add .
+git commit -m 'added fastfetch config'
+git push
+ls
+clear
+ls
+cp -r ~/.config/hypr/ ./
+ls
+cd nvim/
+ls
+cd ..
+clear
+ls
+cd hypr/
+ls
+cd ..
+clear
+ls
+git add .
+git commit -m 'added hypr config'
+ls
+git push
+cp -r ~/.config/hyde/ ./
+ls
+git add .
+git commit -m 'added hyde config'
+tofi --help
+clear
+ls
+git push
+clear
+ls
+touch README.md
+ls
+nvim README.md
+git add .
+git commit -m 'added dotfiles'
+git push
+clear
+s
+ls
+clear
+ls
+clear
+ls
+cat -r ~/.config/nushell/ ./
