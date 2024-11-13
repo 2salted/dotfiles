@@ -1,3 +1,4 @@
+
 # Edit this configuration file to define what should be installed on
 # your system.  Help is available in the configuration.nix(5) man page
 # and in the NixOS manual (accessible by running ‘nixos-help’).
@@ -84,11 +85,25 @@
     description = "salted";
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [
-    vesktop
+    vscode
+    clang-tools
+    rust-analyzer
+    curl
+    ripgrep
+    cmake
+    gnumake
+    gnupatch
+    cargo
+    libreoffice
+    gcc
     fastfetch
+    nodejs
+    bun
+    vesktop
     neovim
     git
     brave
+    unzip
     starship
     zoxide
     kitty
@@ -97,6 +112,7 @@
     gh
     swww
     killall
+    python3
     tofi 
     dolphin 
     pipewire 
@@ -115,16 +131,15 @@
     ];
   };
 
-  programs = {
-   neovim = {
+  programs.neovim = {
     enable = true;
     defaultEditor = true;
     viAlias = true;
     vimAlias = true;
-    };
-    hyprland = {
-     enable = true;
-    };
+   };
+
+programs.hyprland = {
+    enable = true;
   };
 
   # Install firefox.
@@ -171,3 +186,4 @@ fonts.packages = with pkgs; [
     (nerdfonts.override { fonts = [ "JetBrainsMono" "CascadiaCode" ]; })
   ];
   }
+
