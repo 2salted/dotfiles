@@ -61,7 +61,7 @@
     },
     {
       "type": "datetime",
-      "key": "Time",
+      "key": " Time",
       "format": "{14}:{17}",
     },
     {
