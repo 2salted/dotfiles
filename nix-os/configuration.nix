@@ -37,6 +37,8 @@
   # Enable the X11 windowing system.
   services.xserver.enable = true;
 
+  nixpkgs.config.allowUnfree = true;
+
   # Enable the COSMIC login manager
   services.displayManager.cosmic-greeter.enable = true;
 
@@ -65,27 +67,40 @@
   users.users.sultan = {
      isNormalUser = true;
      extraGroups = [ "wheel" ]; # Enable ‘sudo’ for the user.
+     shell = pkgs.nushell;
      packages = with pkgs; [
        tree
        vesktop
        brave
        vscode
-       neovim
+       codex
     ];
   };
 
   # programs.firefox.enable = true;
+  programs.nix-ld.enable = true;
 
   # List packages installed in system profile.
   # You can use https://search.nixos.org/ to find more packages (and options).
   environment.systemPackages = with pkgs; [
-     vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
+     vim
+     neovim
      git
-     wget
      gh
+     wget
      ghostty
+     bun
+     unzip
+     ffmpeg
+     ripgrep
+     vlc
+     ffmpeg
   ];
 
+  nix.settings.experimental-features = [
+    "nix-command"
+    "flakes"
+  ];
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
   # programs.mtr.enable = true;
