@@ -74,6 +74,7 @@
        brave
        vscode
        codex
+       btop
     ];
   };
 
@@ -84,6 +85,8 @@
   # You can use https://search.nixos.org/ to find more packages (and options).
   environment.systemPackages = with pkgs; [
      vim
+     starship
+     zoxide
      neovim
      git
      gh
