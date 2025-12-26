@@ -98,6 +98,8 @@
      ripgrep
      vlc
      ffmpeg
+     gcc
+     fzf
   ];
 
   nix.settings.experimental-features = [
