@@ -60,6 +60,22 @@
      pulse.enable = true;
   };
 
+  fonts = {
+  enableDefaultPackages = true;
+  packages = with pkgs; [ 
+  nerd-fonts.jetbrains-mono
+  nerd-fonts.fira-code
+  ];
+
+  fontconfig = {
+    defaultFonts = {
+      serif = [  "jetbrains-mono" ];
+      sansSerif = [ "jetbrains-mono" ];
+      monospace = [ "jetbrains-mono" ];
+    };
+  };
+};
+
   # Enable touchpad support (enabled default in most desktopManager).
   # services.libinput.enable = true;
 
@@ -72,6 +88,7 @@
        tree
        vesktop
        brave
+       google-chrome
        vscode
        codex
        btop
@@ -88,6 +105,7 @@
      starship
      zoxide
      neovim
+     nodejs_25
      git
      gh
      wget
