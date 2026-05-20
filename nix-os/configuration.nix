@@ -13,6 +13,8 @@
   # Use the systemd-boot EFI boot loader.
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
+  boot.kernelModules = [ "v4l2loopback" ];
+  boot.extraModulePackages = [ pkgs.linuxPackages.v4l2loopback ];
 
   networking.hostName = "sultan"; # Define your hostname.
 
@@ -97,7 +99,16 @@
   };
 
   # programs.firefox.enable = true;
-  programs.nix-ld.enable = true;
+  programs = {
+    nix-ld.enable = true;
+    obs-studio = {
+        enable = true;
+        enableVirtualCamera = true;
+        plugins = [
+          pkgs.obs-studio-plugins.droidcam-obs
+        ];
+      };
+    };
 
   # List packages installed in system profile.
   # You can use https://search.nixos.org/ to find more packages (and options).
